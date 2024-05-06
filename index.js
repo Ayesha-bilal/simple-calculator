@@ -1,4 +1,4 @@
-#! /usr/bin/env node                                    k
+#! /usr/bin/env node                                    
 //a simple calculator using inquirer
 import inquirer from "inquirer";
 const answer = await inquirer.prompt([
