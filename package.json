@@ -1,6 +1,6 @@
 {
   "name": "ayesha4-b12-simple-calculator",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "\"A simple calculator with Typescript , Node.js and Inquirer\"",
   "main": "index.js",
   "type": "module",
